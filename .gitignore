@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!generate-dataset.sh
+!sort-data.sh
+!README.md
+!*.pdf
