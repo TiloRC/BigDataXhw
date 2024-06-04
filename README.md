@@ -1,12 +1,11 @@
 # BigDataXhw
 A homework completed for the BigDataX REU program at IIT and Chicago.
 
-This repository contains two Bash scripts designed for data generation and sorting. The scripts are:
+This repository contains two Bash scripts designed for data generation and sorting. It also contains a pdf report. The scripts and report are:
 
 generate-dataset.sh
 sort-data.sh
-
-The other file of note is report.pdf.
+report.pdf
 
 
 ## generate-dataset.sh
