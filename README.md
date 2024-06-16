@@ -1,5 +1,5 @@
 # BigDataXhw
-A homework completed for the BigDataX REU program at IIT and Chicago.
+A homework completed for the BigDataX REU program at IIT and UChicago.
 
 This repository contains two Bash scripts designed for data generation and sorting. It also contains a pdf report. The scripts and report are:
 
